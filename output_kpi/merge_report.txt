@@ -1,0 +1,11 @@
+=== MERGE REPORT: FEATURES CPTED + KPI ASSICURATIVI ===
+FEATURES rows: 501
+KPI rows:      9231
+MASTER rows:   501
+
+FEATURES duplicate codice_cliente rimossi: 0
+KPI duplicate codice_cliente rimossi:      0
+
+Matched (con KPI non-null): 501
+Unmatched (KPI null):      0
+Coverage:                  100.00%

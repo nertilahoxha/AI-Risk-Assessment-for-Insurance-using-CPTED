@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['area_open', 'built', 'vegetation_high', 'vegetation_low', 'water']
+
+roboflow:
+  workspace: ai-and-computer-vision-uqlm0
+  project: cpted_master
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ai-and-computer-vision-uqlm0/cpted_master/dataset/1

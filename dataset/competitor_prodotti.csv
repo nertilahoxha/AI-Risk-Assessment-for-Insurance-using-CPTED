@@ -1,0 +1,13 @@
+Competitor,Tipo_Prodotto,Premio_Medio,Massimale_Medio,Rating_Clienti,Quota_Mercato_Perc,Coperture_Extra
+Protezione Italia,Casa,333,100000,4.5,14.4,Base
+Sicurezza Unita,Casa,409,100000,3.9,5.2,Intermedia
+Futuro Sereno,Casa,419,200000,3.9,12.0,Intermedia
+Banca Vita Assicurazioni,Casa,296,350000,4.4,24.3,Base
+Rete Nazionale Vita,Casa,360,800000,4.7,10.2,Base
+Helvetia Protezione,Casa,347,100000,4.2,20.1,Base
+Protezione Italia,Salute,658,100000,4.1,16.6,Base
+Sicurezza Unita,Salute,754,500000,4.1,5.8,Completa
+Futuro Sereno,Salute,748,200000,4.3,21.2,Intermedia
+Banca Vita Assicurazioni,Salute,573,800000,3.9,6.2,Intermedia
+Rete Nazionale Vita,Salute,611,800000,4.3,10.3,Base
+Helvetia Protezione,Salute,751,200000,4.8,8.3,Completa

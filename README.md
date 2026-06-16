@@ -1,12 +1,11 @@
 🏠 AI Risk Assessment for Insurance using CPTED
 
 
+![AI Challenge](https://img.shields.io/badge/AI%20Challenge-3rd%20Place-brightgreen)
 
-!\[AI Challenge](https://img.shields.io/badge/AI%20Challenge-3rd%20Place-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue)
-
-!\[YOLOv8](https://img.shields.io/badge/YOLOv8-Instance%20Segmentation-orange)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Instance%20Segmentation-orange)
 
 
 

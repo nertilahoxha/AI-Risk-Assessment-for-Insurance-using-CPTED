@@ -89,8 +89,6 @@ Le feature estratte vengono integrate in un modello \*\*AdaBoost\*\*, che genera
 
 │ │ └── Codice per applicazione Streamlit
 
-│ │
-
 │ ├── Script Python per:
 
 │ │ ├── preprocessing dati
@@ -101,42 +99,26 @@ Le feature estratte vengono integrate in un modello \*\*AdaBoost\*\*, che genera
 
 │ │ └── training modello
 
-│ │
-
 │ └── Modello YOLOv8
-
-│
 
 ├── dataset/
 
 │ ├── CSV delle abitazioni e dei sinistri forniti
 
 │ └── Dataset annotato con Roboflow per YOLOv8
-
-│
-
 ├── output/
 
 │ └── File CSV generati dagli script
-
-│
 
 ├── output\_satellite\_maps/
 
 │ └── Immagini satellitari Google Maps
 
-│
-
 ├── output\_satellite\_maps\_zoom/
 
 │ └── Immagini satellitari con zoom maggiore
 
-│
-
 ├── Paper\_CPTED.pdf
-
-│
-
 └── Presentazione.pdf
 
 
